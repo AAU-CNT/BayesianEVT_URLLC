@@ -1,4 +1,4 @@
-# BayesianEVT_URLLC
+# Bayesian_EVT_URLLC
 
 This repository contains the code for the simulations used in the article "Prediction of Rare Channel Conditions using Bayesian Statistics and Extreme Value Theory," which is currently under review for IEEE Transactions on Wireless Communications.
 
