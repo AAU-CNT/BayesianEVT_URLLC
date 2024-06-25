@@ -25,8 +25,7 @@ This repository contains the code for the simulations used in the article "Predi
    - `fit_map.py` : Scipt to spatially interpolate statistics via CDI maps based on GPs and generate Fig. 6 shown in the paper. 
    - `rate_select.py` : Scipt to select rates using the two Bayesian approaches and the baselines. Warning: This script uses multiprocessing and is very computationally heavy, e.g., can take several days depeneding on the avilable number of CPUs.
    - `show_results.py` : Script to generate Figs. 7-8 in the paper based on selected rates.
- - `plots/` : Folder for plots in the paper. 
-    
+     
 ## Result files
 Some of the data files required for the QuaDriGa are no are not included in the repository directly (due to large file sizes) but can be created by running the appropriate scripts. Note that some of the scripts are computationally heavy and based on multiprocessing. Please contact <tkal@es.aau.dk> to acquire the result files directly. 
 The data files required from the expeirmental data are not included due to licencing, but we hope to publish the data soon. 
