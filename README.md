@@ -3,7 +3,7 @@
 This repository contains the code for the simulations used in the article "Prediction of Rare Channel Conditions using Bayesian Statistics and Extreme Value Theory," which is currently under review for IEEE Transactions on Wireless Communications.
 
 ## Content
- - `libraries' : Contains all implemented inference methods used in the paper. See in particular
+ - `libraries` : Contains all implemented inference methods used in the paper. See in particular
    - `stat_radio_map.py' : Class for handling data and spatial prediction of channel statistics via CDI maps.
    - `rate_select_non_para.py' : Function for non-parametric rate selection both through a frequentist and Beyesian approach. The scipt also contains some helper functions.
    - `rate_select_GPD' : Functions for rate selection based on the generalized Pareto distribution (GPD) and the theorem from extreme value threory (EVT).
