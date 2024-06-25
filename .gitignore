@@ -13,7 +13,6 @@ master-blx.bib
 *.run.xml
 *.pyc
 *.p
-*.pickle
 *.npz
 *.pt
 *.pdf
