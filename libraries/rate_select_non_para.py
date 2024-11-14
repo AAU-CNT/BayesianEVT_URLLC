@@ -42,9 +42,6 @@ def rate_select_non_para(eps, X = None, model = 'capacity',  method = 'freq',
             pcr : Select rate based on probabily correct reliability (pcr) with
             given confidence delta
         The default is pcr. 
-    
-    **kwargs : TYPE
-        DESCRIPTION.
         
     Optional keyword arguments
     --------------------------
